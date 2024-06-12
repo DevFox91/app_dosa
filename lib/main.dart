@@ -1,7 +1,7 @@
+import 'package:app_dosa/modules/perfil_tutor/perfil_tutor_design.dart';
 import 'package:flutter/material.dart';
 import 'home_screen.dart'; 
 import 'modules/perfil_participante/perfil_participante.dart'; 
-import 'modules/perfil_tutor/perfil_tutor.dart'; 
 import 'modules/seleccionar_participante/seleccionar_participante.dart'; 
 import 'modules/pagos/pagos.dart'; 
 import 'modules/actividades/actividades.dart'; 
